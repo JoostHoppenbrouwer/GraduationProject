@@ -1,0 +1,2 @@
+python classify_visualize_all.py
+python classify_visualize_fooling.py

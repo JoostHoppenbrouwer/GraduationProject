@@ -1,0 +1,2 @@
+python layer7_mean_stdev.py
+python layer7_fooling_similarity.py
