@@ -1,0 +1,5 @@
+n02028035 redshank, Tringa totanus  ->  0.996564
+n01534433 junco, snowbird  ->  0.000468808
+n02033041 dowitcher  ->  0.000433743
+n01797886 ruffed grouse, partridge, Bonasa umbellus  ->  0.000360457
+n02325366 wood rabbit, cottontail, cottontail rabbit  ->  0.000237155

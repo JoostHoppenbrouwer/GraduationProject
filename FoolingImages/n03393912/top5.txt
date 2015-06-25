@@ -1,0 +1,5 @@
+n03393912 freight car  ->  0.982718
+n04418357 theater curtain, theatre curtain  ->  0.0058386
+n03196217 digital clock  ->  0.0024545
+n03908618 pencil box, pencil case  ->  0.00162065
+n04404412 television, television system  ->  0.000967506

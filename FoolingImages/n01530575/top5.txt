@@ -1,0 +1,5 @@
+n01530575 brambling, Fringilla montifringilla  ->  0.896975
+n02356798 fox squirrel, eastern fox squirrel, Sciurus niger  ->  0.0320127
+n02120505 grey fox, gray fox, Urocyon cinereoargenteus  ->  0.0290977
+n02361337 marmot  ->  0.00562178
+n01558993 robin, American robin, Turdus migratorius  ->  0.0054822

@@ -1,0 +1,5 @@
+n01784675 centipede  ->  0.978007
+n01770393 scorpion  ->  0.00896657
+n01990800 isopod  ->  0.00254093
+n01985128 crayfish, crawfish, crawdad, crawdaddy  ->  0.00222541
+n01689811 alligator lizard  ->  0.00147829

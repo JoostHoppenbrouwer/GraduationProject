@@ -1,0 +1,5 @@
+n02799071 baseball  ->  0.999352
+n01784675 centipede  ->  0.000326871
+n03676483 lipstick, lip rouge  ->  2.50803e-05
+n01734418 king snake, kingsnake  ->  2.5019e-05
+n02786058 Band Aid  ->  2.47571e-05

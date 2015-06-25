@@ -1,0 +1,5 @@
+n03272010 electric guitar  ->  0.998492
+n02676566 acoustic guitar  ->  0.000405589
+n03710637 maillot  ->  0.000263117
+n03527444 holster  ->  0.000224553
+n04536866 violin, fiddle  ->  7.12275e-05

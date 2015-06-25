@@ -1,0 +1,5 @@
+n02509815 lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens  ->  0.737818
+n02165456 ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle  ->  0.0393491
+n01532829 house finch, linnet, Carpodacus mexicanus  ->  0.0220974
+n01514859 hen  ->  0.0128699
+n01797886 ruffed grouse, partridge, Bonasa umbellus  ->  0.0122373

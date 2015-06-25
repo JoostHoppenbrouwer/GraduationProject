@@ -1,0 +1,5 @@
+n02317335 starfish, sea star  ->  0.999964
+n01917289 brain coral  ->  3.04819e-05
+n07695742 pretzel  ->  2.48329e-06
+n04153751 screw  ->  1.13336e-06
+n02999410 chain  ->  6.47678e-07

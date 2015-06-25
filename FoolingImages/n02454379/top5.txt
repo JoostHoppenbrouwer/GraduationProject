@@ -1,0 +1,5 @@
+n02454379 armadillo  ->  0.915391
+n02325366 wood rabbit, cottontail, cottontail rabbit  ->  0.0200109
+n02137549 mongoose  ->  0.0138416
+n02356798 fox squirrel, eastern fox squirrel, Sciurus niger  ->  0.00949082
+n02120505 grey fox, gray fox, Urocyon cinereoargenteus  ->  0.00725717

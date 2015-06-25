@@ -1,0 +1,5 @@
+n01817953 African grey, African gray, Psittacus erithacus  ->  0.99987
+n02093647 Bedlington terrier  ->  0.000116572
+n02328150 Angora, Angora rabbit  ->  5.6952e-06
+n02105641 Old English sheepdog, bobtail  ->  1.66707e-06
+n01622779 great grey owl, great gray owl, Strix nebulosa  ->  6.63938e-07

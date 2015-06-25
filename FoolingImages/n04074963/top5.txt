@@ -1,0 +1,5 @@
+n04074963 remote control, remote  ->  0.996587
+n03485407 hand-held computer, hand-held microcomputer  ->  0.00304978
+n04127249 safety pin  ->  0.000141326
+n06359193 web site, website, internet site, site  ->  9.89085e-05
+n06785654 crossword puzzle, crossword  ->  3.30789e-05

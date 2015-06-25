@@ -1,0 +1,5 @@
+n01558993 robin, American robin, Turdus migratorius  ->  0.97363
+n02356798 fox squirrel, eastern fox squirrel, Sciurus niger  ->  0.00826997
+n02325366 wood rabbit, cottontail, cottontail rabbit  ->  0.00513291
+n01530575 brambling, Fringilla montifringilla  ->  0.0039872
+n02326432 hare  ->  0.00239863

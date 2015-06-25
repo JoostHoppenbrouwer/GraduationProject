@@ -1,0 +1,5 @@
+n07754684 jackfruit, jak, jack  ->  0.583008
+n03207743 dishrag, dishcloth  ->  0.133455
+n02325366 wood rabbit, cottontail, cottontail rabbit  ->  0.0306149
+n03530642 honeycomb  ->  0.0278639
+n01917289 brain coral  ->  0.019405

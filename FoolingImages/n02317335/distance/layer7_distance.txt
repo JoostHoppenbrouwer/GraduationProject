@@ -1,0 +1,96 @@
+Using Threshold: 0.0
+Comparing with class: n01817953
+Accuracy: 0.867919921875, Cosine similarity: 0.0817518964691, Euclidean distance: 169.661377192
+Comparing with class: n03393912
+Accuracy: 0.870361328125, Cosine similarity: 0.0874184576286, Euclidean distance: 167.148603561
+Comparing with class: n07754684
+Accuracy: 0.88818359375, Cosine similarity: 0.143132668938, Euclidean distance: 164.362354625
+Comparing with class: n03272010
+Accuracy: 0.901611328125, Cosine similarity: 0.223068636371, Euclidean distance: 160.069791427
+Comparing with class: n01558993
+Accuracy: 0.86767578125, Cosine similarity: 0.0980767641836, Euclidean distance: 170.526686147
+Comparing with class: n02056570
+Accuracy: 0.876953125, Cosine similarity: 0.105915682579, Euclidean distance: 170.252879576
+Comparing with class: n01784675
+Accuracy: 0.91015625, Cosine similarity: 0.290538762053, Euclidean distance: 156.311777933
+Comparing with class: n01530575
+Accuracy: 0.873291015625, Cosine similarity: 0.142332252001, Euclidean distance: 166.9593628
+Comparing with class: n02130308
+Accuracy: 0.870361328125, Cosine similarity: 0.14035288817, Euclidean distance: 165.010897529
+Comparing with class: n04074963
+Accuracy: 0.900146484375, Cosine similarity: 0.13556142214, Euclidean distance: 162.986997257
+Comparing with class: n02028035
+Accuracy: 0.862548828125, Cosine similarity: 0.132748813581, Euclidean distance: 168.792327799
+Comparing with class: n02454379
+Accuracy: 0.8779296875, Cosine similarity: 0.123598417964, Euclidean distance: 165.873382263
+Comparing with class: n02799071
+Accuracy: 0.8974609375, Cosine similarity: 0.109715188126, Euclidean distance: 167.705018012
+Comparing with class: n02509815
+Accuracy: 0.86865234375, Cosine similarity: 0.12365226117, Euclidean distance: 167.26578608
+Comparing with class: n02317335
+Accuracy: 0.921630859375, Cosine similarity: 0.516696705178, Euclidean distance: 144.818782567
+Using Threshold: 0.1
+Comparing with class: n01817953
+Accuracy: 0.154525386313, Comparing with class: n03393912
+Accuracy: 0.128035320088, Comparing with class: n07754684
+Accuracy: 0.176600441501, Comparing with class: n03272010
+Accuracy: 0.220750551876, Comparing with class: n01558993
+Accuracy: 0.147902869757, Comparing with class: n02056570
+Accuracy: 0.141280353201, Comparing with class: n01784675
+Accuracy: 0.245033112583, Comparing with class: n01530575
+Accuracy: 0.207505518764, Comparing with class: n02130308
+Accuracy: 0.152317880795, Comparing with class: n04074963
+Accuracy: 0.14348785872, Comparing with class: n02028035
+Accuracy: 0.147902869757, Comparing with class: n02454379
+Accuracy: 0.16114790287, Comparing with class: n02799071
+Accuracy: 0.174392935982, Comparing with class: n02509815
+Accuracy: 0.183222958057, Comparing with class: n02317335
+Accuracy: 0.32229580574, Using Threshold: 0.25
+Comparing with class: n01817953
+Accuracy: 0.129545454545, Comparing with class: n03393912
+Accuracy: 0.104545454545, Comparing with class: n07754684
+Accuracy: 0.154545454545, Comparing with class: n03272010
+Accuracy: 0.197727272727, Comparing with class: n01558993
+Accuracy: 0.129545454545, Comparing with class: n02056570
+Accuracy: 0.115909090909, Comparing with class: n01784675
+Accuracy: 0.227272727273, Comparing with class: n01530575
+Accuracy: 0.190909090909, Comparing with class: n02130308
+Accuracy: 0.129545454545, Comparing with class: n04074963
+Accuracy: 0.120454545455, Comparing with class: n02028035
+Accuracy: 0.129545454545, Comparing with class: n02454379
+Accuracy: 0.138636363636, Comparing with class: n02799071
+Accuracy: 0.15, Comparing with class: n02509815
+Accuracy: 0.165909090909, Comparing with class: n02317335
+Accuracy: 0.302272727273, Using Threshold: 0.5
+Comparing with class: n01817953
+Accuracy: 0.110849056604, Comparing with class: n03393912
+Accuracy: 0.0801886792453, Comparing with class: n07754684
+Accuracy: 0.125, Comparing with class: n03272010
+Accuracy: 0.172169811321, Comparing with class: n01558993
+Accuracy: 0.106132075472, Comparing with class: n02056570
+Accuracy: 0.0872641509434, Comparing with class: n01784675
+Accuracy: 0.205188679245, Comparing with class: n01530575
+Accuracy: 0.162735849057, Comparing with class: n02130308
+Accuracy: 0.10141509434, Comparing with class: n04074963
+Accuracy: 0.0943396226415, Comparing with class: n02028035
+Accuracy: 0.11320754717, Comparing with class: n02454379
+Accuracy: 0.110849056604, Comparing with class: n02799071
+Accuracy: 0.127358490566, Comparing with class: n02509815
+Accuracy: 0.143867924528, Comparing with class: n02317335
+Accuracy: 0.275943396226, Using Threshold: 1
+Comparing with class: n01817953
+Accuracy: 0.0692307692308, Comparing with class: n03393912
+Accuracy: 0.0410256410256, Comparing with class: n07754684
+Accuracy: 0.0794871794872, Comparing with class: n03272010
+Accuracy: 0.120512820513, Comparing with class: n01558993
+Accuracy: 0.0820512820513, Comparing with class: n02056570
+Accuracy: 0.0538461538462, Comparing with class: n01784675
+Accuracy: 0.148717948718, Comparing with class: n01530575
+Accuracy: 0.120512820513, Comparing with class: n02130308
+Accuracy: 0.0641025641026, Comparing with class: n04074963
+Accuracy: 0.0461538461538, Comparing with class: n02028035
+Accuracy: 0.0897435897436, Comparing with class: n02454379
+Accuracy: 0.0692307692308, Comparing with class: n02799071
+Accuracy: 0.0769230769231, Comparing with class: n02509815
+Accuracy: 0.1, Comparing with class: n02317335
+Accuracy: 0.228205128205, 

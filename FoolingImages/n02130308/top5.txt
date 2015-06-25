@@ -1,0 +1,5 @@
+n02130308 cheetah, chetah, Acinonyx jubatus  ->  0.918362
+n02117135 hyena, hyaena  ->  0.0436198
+n02127052 lynx, catamount  ->  0.00795076
+n02129165 lion, king of beasts, Panthera leo  ->  0.00276594
+n02114855 coyote, prairie wolf, brush wolf, Canis latrans  ->  0.00266357

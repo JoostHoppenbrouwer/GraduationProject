@@ -1,0 +1,5 @@
+n02056570 king penguin, Aptenodytes patagonica  ->  0.999997
+n02669723 academic gown, academic robe, judge's robe  ->  1.00525e-06
+n03623198 knee pad  ->  5.93792e-07
+n01843383 toucan  ->  3.09376e-07
+n03787032 mortarboard  ->  1.88006e-07
